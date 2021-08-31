@@ -17,26 +17,33 @@ This is a hybrid-type workshop, and online attendence can be made by
 - 9:00-9:20  
   Soojeong Hyeon (hsj9537@cdsl.kr, SNU)  
   Distributed orientation estimation in SO(n) with only local position measurements
+  
 - 9:20-9:40  
   Seunghyeon Kim (seu7704@dgist.ac.kr, DGIST)  
   Analysis of performance metrics for production systems with reliability characteristics
+  
 - 9:40-10:00  
   Yeong-Ung Kim (yeongungkim@gm.gist.ac.kr, GIST)  
   Blended dynamics for network localization or displacement based formation control
+  
 - 10:00-10:20  
   Jeong Woo Kim (jwkim@cdsl.kr, SNU)  
   How to Utilize Blended Dynamics in Discrete-Time Domain?
+  
 - 10:20-10:40  
   Young Woo Ahn (an9307kr@dgist.ac.kr, DGIST)  
   A method of actuator anomaly detection for four wheeled skid steered vehicles
+  
 - 10:40-11:00  
   Seong-Ho Kwon (seongho@gist.ac.kr, GIST)  
   Evaluation of the graph rigidity from local sensings
 
+-----
   
 - 17:00-17:20  
   Donggil Lee (dglee@cdsl.kr, SNU)  
   Decentralized design of distributed controller for cooperative stabilization of LTI systems
+  
 - 17:20-18:00  
   Feedbacks
 
