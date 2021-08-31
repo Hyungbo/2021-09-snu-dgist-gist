@@ -1,42 +1,44 @@
-# Zoom link
+# The 1st SNU-DGIST-GIST Joint Workshop on Control Systems
 
-Zoom room = 822 880 1745
+This is a hybrid-type workshop, and online attendence can be made by 
+> Zoom room = 822 880 1745 (for the workshop on Sept 10 Friday)
 
 # Schedule
 
 ## Sept. 9 (Thursday)
 
-- 16:30-18:00 Prof. Yongsoon Eun  
+- 16:30-18:00  
+  Prof. Yongsoon Eun  
   Lying sensors in feedback control systems  
   (GIST ME Seminar, Online Presentation at GIST)
   
 ## Sept. 10 (Friday)
 
-- 9:00-9:20 Soojeong Hyeon (hsj9537@cdsl.kr), SNU  
+- 9:00-9:20  
+  Soojeong Hyeon (hsj9537@cdsl.kr, SNU)  
   Distributed orientation estimation in SO(n) with only local position measurements
+- 9:20-9:40  
+  Seunghyeon Kim (seu7704@dgist.ac.kr, DGIST)  
+  Analysis of performance metrics for production systems with reliability characteristics
+- 9:40-10:00  
+  Yeong-Ung Kim (yeongungkim@gm.gist.ac.kr, GIST)
+  Blended dynamics for network localization or displacement based formation control
+- 10:00-10:20  
+  Jeong Woo Kim (jwkim@cdsl.kr, SNU)  
+  How to Utilize Blended Dynamics in Discrete-Time Domain?
+- 10:20-10:40  
+  Young Woo Ahn (an9307kr@dgist.ac.kr, DGIST)
+  A method of actuator anomaly detection for four wheeled skid steered vehicles
+- 10:40-11:00  
+  Seong-Ho Kwon (seongho@gist.ac.kr, GIST)  
+  Evaluation of the graph rigidity from local sensings
+
   
-9:20-9:40: Seunghyeon Kim (seu7704@dgist.ac.kr), DGIST, Analysis of performance 
-metrics for production systems with reliability characteristics
-9:40-10:00: Yeong-Ung Kim (yeongungkim@gm.gist.ac.kr), GIST, Blended dynamics for 
-network localization or displacement based formation control
-10:00-10:20: Jeong Woo Kim (jwkim@cdsl.kr), SNU, How to Utilize Blended Dynamics in 
-Discrete-Time Domain?
-10:20-10:40: Young Woo Ahn (an9307kr@dgist.ac.kr), DGIST, A method of actuator
-anomaly detection for four wheeled skid steered vehicles
-10:40-11:00: Seong-Ho Kwon (seongho@gist.ac.kr), GIST, Evaluation of the graph rigidity 
-from local sensings
-Break, Lunch & Discussions during an Excursion (ex. Damyang)
-(Liberal discussion session)
-16:00-17:00: Feedbacks
-17:00-17:20: 이동길, SNU, Decentralized design of distributed controller for cooperative 
-stabilization of LTI systems
-17:20-18:00: To Be Added
-18:20-20:00: Dinner (only three people Prof. Shim + Prof. Eun + Prof. Ahn)
-
-## Sept. 11 (Saturday)
-
-- 9:00-12:00: Wrap Up (Collaboration plan)
-
+- 17:00-17:20
+  Donggil Lee (dglee@cdsl.kr, SNU)  
+  Decentralized design of distributed controller for cooperative stabilization of LTI systems
+- 17:20-18:00  
+  Feedbacks
 
 # Sponsored by 
 
