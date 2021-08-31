@@ -34,7 +34,7 @@ This is a hybrid-type workshop, and online attendence can be made by
   Evaluation of the graph rigidity from local sensings
 
   
-- 17:00-17:20
+- 17:00-17:20  
   Donggil Lee (dglee@cdsl.kr, SNU)  
   Decentralized design of distributed controller for cooperative stabilization of LTI systems
 - 17:20-18:00  
