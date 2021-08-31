@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# Zoom link
 
-You can use the [editor on GitHub](https://github.com/Hyungbo/2021-09-snu-dgist-gist/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Zoom room = 822 880 1745
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Schedule
 
-### Markdown
+## Sept. 9 (Thursday)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 16:30-18:00 Prof. Yongsoon Eun  
+  Lying sensors in feedback control systems  
+  (GIST ME Seminar, Online Presentation at GIST)
+  
+## Sept. 10 (Friday)
 
-```markdown
-Syntax highlighted code block
+- 9:00-9:20 Soojeong Hyeon (hsj9537@cdsl.kr), SNU  
+  Distributed orientation estimation in SO(n) with only local position measurements
+  
+9:20-9:40: Seunghyeon Kim (seu7704@dgist.ac.kr), DGIST, Analysis of performance 
+metrics for production systems with reliability characteristics
+9:40-10:00: Yeong-Ung Kim (yeongungkim@gm.gist.ac.kr), GIST, Blended dynamics for 
+network localization or displacement based formation control
+10:00-10:20: Jeong Woo Kim (jwkim@cdsl.kr), SNU, How to Utilize Blended Dynamics in 
+Discrete-Time Domain?
+10:20-10:40: Young Woo Ahn (an9307kr@dgist.ac.kr), DGIST, A method of actuator
+anomaly detection for four wheeled skid steered vehicles
+10:40-11:00: Seong-Ho Kwon (seongho@gist.ac.kr), GIST, Evaluation of the graph rigidity 
+from local sensings
+Break, Lunch & Discussions during an Excursion (ex. Damyang)
+(Liberal discussion session)
+16:00-17:00: Feedbacks
+17:00-17:20: 이동길, SNU, Decentralized design of distributed controller for cooperative 
+stabilization of LTI systems
+17:20-18:00: To Be Added
+18:20-20:00: Dinner (only three people Prof. Shim + Prof. Eun + Prof. Ahn)
 
-# Header 1
-## Header 2
-### Header 3
+## Sept. 11 (Saturday)
 
-- Bulleted
-- List
+- 9:00-12:00: Wrap Up (Collaboration plan)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Sponsored by 
 
-[Link](url) and ![Image](src)
-```
+GIST ME & DCASL NRF Mid-Career Project
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Zoometiquette
 
-### Jekyll Themes
+Please help us to keep our meetings productive and professional, and kindly follow these simple virtual meeting etiquette rules and tips.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hyungbo/2021-09-snu-dgist-gist/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## "Rules" for Zoom meeting participants:
+- Join early – up to 2 minutes before the meeting start time. There will be a waiting room and the host will let you in.
+- Enter Zoom with your full name (first and last name).
+- Make sure that you mute your microphone (at the beginning of the meeting all participants are automatically muted. Only unmute yourself if you are asked to speak).
+- To help keep background noise to a minimum, make sure you mute your microphone when you are not speaking. Be mindful of background noise. When your microphone is not muted, avoid activities that could create additional noise, such as shuffling papers or typing.
+- If you have a question: write your question in the chat or raise your hand.
+- Please switch off your Webcam most of time, and turn on when you speak.
+- Please note that the meeting organizers reserve the right to mute/deactivate microphones and cameras of participants without warning, and to change the names of the participants for any reason they deem necessary.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
