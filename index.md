@@ -51,7 +51,7 @@ This is a hybrid-type workshop, and online attendence can be made by
   Decentralized design of distributed controller for cooperative stabilization of LTI systems
   
 - 17:20-18:00  
-  Feedbacks
+  Feedbacks and Discussions (for any presentation today)
 
 # Sponsored by 
 
