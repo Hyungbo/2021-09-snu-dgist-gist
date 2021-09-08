@@ -1,18 +1,18 @@
 # The 1st SNU-DGIST-GIST Joint Workshop on Control Systems
 
-This is a hybrid-type workshop, and online attendence can be made by 
-> Zoom room = 822 880 1745 (for the workshop on Sept 10 Friday)
-
 # Schedule
 
-## Sept. 9 (Thursday)
+## Sept. 9 (Thursday) 
 
 - 16:30-18:00  
+  **Zoom room = 881 0653 2679**  
   Prof. Yongsoon Eun  
   Lying sensors in feedback control systems  
   (GIST ME Seminar, Online Presentation at GIST)
   
 ## Sept. 10 (Friday)
+
+**Zoom room = 822 880 1745**  
 
 - 9:00-9:20  
   Soojeong Hyeon (hsj9537@cdsl.kr, SNU)  
