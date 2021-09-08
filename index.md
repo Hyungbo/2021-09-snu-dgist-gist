@@ -40,7 +40,8 @@
 
 -----
 
-- Anytime in the afternoon (Video-On-Demand presentation of 45 minutes; https://youtu.be/S-idXHElUe0)     
+- Anytime in the afternoon (Video-On-Demand presentation of 45 minutes)     
+  [https://youtu.be/S-idXHElUe0](https://youtu.be/S-idXHElUe0)
   Prof. Hyungbo Shim  
   Design of Heterogeneous Multi-Agent System for Distributed Computation and Control  
   
