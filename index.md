@@ -5,7 +5,7 @@
 ## Sept. 9 (Thursday) 
 
 - 16:30-18:00  
-  **Zoom room = 881 0653 2679**  
+  **Zoom room = 881 0653 2679**  PW = me_2383
   Prof. Yongsoon Eun  
   Lying sensors in feedback control systems  
   (GIST ME Seminar, Online Presentation at GIST)
