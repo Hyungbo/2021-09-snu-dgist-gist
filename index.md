@@ -38,6 +38,13 @@
   Seong-Ho Kwon (seongho@gist.ac.kr, GIST)  
   Evaluation of the graph rigidity from local sensings
 
+- 13:00-13:20  
+  Donggil Lee (dglee@cdsl.kr, SNU)  
+  Decentralized design of distributed controller for cooperative stabilization of LTI systems
+  
+- 13:20-14:00  
+  Feedbacks and Discussions (for any presentation today)
+
 -----
 
 - Anytime in the afternoon (Video-On-Demand presentation of 45 minutes)     
@@ -47,12 +54,6 @@
   
 -----
 
-- 17:00-17:20  
-  Donggil Lee (dglee@cdsl.kr, SNU)  
-  Decentralized design of distributed controller for cooperative stabilization of LTI systems
-  
-- 17:20-18:00  
-  Feedbacks and Discussions (for any presentation today)
 
 # Sponsored by 
 
